@@ -2,19 +2,18 @@ project:
   type: website
 
 website:
-  title: "Your_Name - Data Science Portfolio"
+  title: "Nickolas Kirby - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: https://github.com/username/username.github.io
+  repo-url: https://github.com/nickolaskirby14/nickolaskirby14.github.io.git
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
   page-footer: 
     border: true
-    left: "Your_Name 2024©"
+    left: "Nickolas Kirby 2024©"
     right: 
       - icon: linkedin
-        href: Your_LinkedIn_URL
-
+        href: www.linkedin.com/in/nickolas-k-a0a962210
   navbar:
     background: primary
     search: true   
