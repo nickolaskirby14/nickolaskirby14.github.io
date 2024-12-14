@@ -1,89 +1,77 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Nickolas Kirby
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+**Phone:** (208) 569-1914  
+**Email:** [nickolas.kirby14@gmail.com](mailto:nickolas.kirby14@gmail.com)  
+**LinkedIn:** [linkedin.com/in/nickolas-k-a0a962210](https://www.linkedin.com/in/nickolas-k-a0a962210)
 
+---
 
-## Currently
+## **Objective**
 
-Standing on the shoulders of giants
+Upcoming Accounting graduate aspiring to become a CPA, eager to apply my strong foundation in accounting principles, data science, and analytical skills to contribute effectively in an entry-level role.
 
-### Specialized in
+---
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## **Education**
 
+**Bachelor of Science in Accounting**  
+*Brigham Young University - Idaho, Rexburg, Idaho*  
+**Sep 2020 - Dec 2024**
 
-### Research interests
+- Major in Accounting
+- Certificate of Data Science
+- Relevant coursework: Financial Accounting, Cost Accounting, Tax Accounting, Accounting Information Systems, Advanced Spreadsheet Application, Data Science Programming, Business Analytics
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+---
 
+## **Experience**
 
-## Education
+### **Route Coordinator / Delivery Specialist**  
+*Rexburg Floral, Rexburg, Idaho*  
+**Sep 2022 - Present**
 
-`1654-1660`
-__The King's School, Grantham.__
+- Managed cargo handling, ensured order fulfillment, and resolved issues related to the distribution of deliveries.
+- Developed comprehensive order sheets and refined route directions to enhance efficiency and timeliness of deliveries.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+### **Staff Accounting Intern**  
+*Melaleuca: The Wellness Company, Idaho Falls, Idaho*  
+**Sep 2023 - Jan 2024**
 
-- Sizar
+- Prepared financial statements and assisted with internal auditing for the company's foreign division, while also conducting special projects involving research, coordination, and information gathering.
+- Reviewed and analyzed departmental variances monthly to identify material differences, and prepared closing journal entries to address any discrepancies or errors.
 
-`1667 - death`
-__Trinity College, Cambridge__
+### **Accounting / Accounts Payable Intern**  
+*Yellowstone Plastics, Idaho Falls, Idaho*  
+**Jul 2023 - Sep 2023**
 
-- Fellow
+- Promoted from "Business Operations Intern" at a sister company into a specialized "Accounting Intern" by exceeding expectations and displaying exceptional knowledge regarding accounting systems and scenarios.
+- Led and analyzed with the accounting manager regarding: Chart of accounts, Financial Statements, Cash Flow Projection, Petty Cash Reconciliation, Account Reconciliations, Month-End Entries, Accounts Payable, Cycle Counting/Inventory Management.
 
+### **Business Operations Intern**  
+*Volm Companies, Idaho Falls, Idaho*  
+**Jun 2023 - Sep 2023**
 
+- Received hands-on experience working in a variety of departments including Purchasing, Production, Finance, Sales, Inventory Control, Human Resources, Safety, IT, Transportation, Logistics, Marketing, and Equipment.
+- Acquired comprehensive understanding of end-to-end business operations, encompassing workflow, processes, and product delivery throughout various departments.
 
-## Awards
+### **Shift Lead**  
+*Pick Me Up Drinks, Idaho Falls, Rigby, Rexburg, Idaho*  
+**Sep 2020 - Sep 2022**
 
-`2012`
-President, *Royal Society*, London, UK
+- Remained at the top of sales while managing inventory, cashiering, credit card processing, and money handling along with miscellaneous tasks.
+- Executed opening and closing procedures, monitored employee workflow, and fostered team collaboration to ensure smooth operations at the location.
 
-Associate, *French Academy of Science*, Paris, France
+---
 
+## **Skills**
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+- **Software & Tools:** Infor CloudSuite ERP Cloud System, J.D. Edwards, Data Access Studio, SAGE, Microsoft Excel, Microsoft Word, Microsoft Power BI, Tableau
+- **Other Skills:** Supervising, Problem Solving, Business Development, Communication, Teamwork, Inventory, Time Management
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 14, 2024 -->
